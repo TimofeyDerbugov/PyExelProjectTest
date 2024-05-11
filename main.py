@@ -1,6 +1,6 @@
 import openpyxl
 
-book = openpyxl.open("Книга (2).xlsx", read_only=True)
+book = openpyxl.open("ght.xlsx", read_only=True)
 
 sheet = book.active
 
